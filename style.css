@@ -1,0 +1,29 @@
+body {
+    font-size: 130%;
+    font-family: arial;
+    background-image: url("informatyka\ ezza.jfif");
+    background-attachment: fixed;
+
+}
+
+h1 {
+    font-size: 220%;
+    text-align: center;
+    color: white;
+}
+
+div {
+    margin: auto;
+    margin-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 12px;
+    border-style: solid;
+    border-radius: 20px;
+    background-color: antiquewhite;
+    width: 700px;
+}
+
+h4 {
+    text-align: left;
+}
